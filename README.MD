@@ -1,1 +1,1 @@
-#This is my repository for Coding Ninja Solution in C++.
+# This is my repository for Coding Ninja Solution in C++.
